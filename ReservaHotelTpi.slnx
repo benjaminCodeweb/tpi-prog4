@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/ReservaHotelTipi.Domain/">
+    <Project Path="ReservaHotelTipi.Domain/Domain.csproj" />
+  </Folder>
+  <Project Path="Api/Api.csproj" />
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Infrastrcture/Infrastrcture.csproj" />
+</Solution>
